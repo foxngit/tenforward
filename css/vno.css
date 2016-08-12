@@ -6203,7 +6203,7 @@ hr {
   box-shadow: none;
 }
 .post img {
-  max-width: 100%;
+  max-width: 30%;
   margin: 0 auto;
   border-radius: 3px;
   text-align: center;
